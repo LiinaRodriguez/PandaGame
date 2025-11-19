@@ -79,20 +79,6 @@ Antes de jugar, debes instalar los drivers necesarios para la comunicación con 
 - **Rango de volumen:** 0 - 5000 ml
 - **Protocolo:** Serial (UART)
 
-### Verificar Conexión:
-
-Si el juego no detecta el inspirómetro:
-
-1. Abre el **Administrador de dispositivos** de Windows
-2. Busca en **Puertos (COM y LPT)**
-3. Localiza **Silicon Labs CP210x USB to UART Bridge (COMx)**
-4. Si no está en COM4, puedes reasignarlo:
-   - Click derecho → Propiedades
-   - Pestaña "Configuración del puerto"
-   - Click en "Opciones avanzadas"
-   - Cambiar número de puerto COM a COM4
-
-
 ## 📦 Créditos y Assets
 
 Este juego fue desarrollado con:
