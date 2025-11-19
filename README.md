@@ -95,8 +95,8 @@ Este juego fue desarrollado con:
 ## 👥 Contacto y Soporte
 
 Para reportar problemas o sugerencias:
-- **Email:** [linnrodriguez25@gmail.com]
-- **GitHub:** [https://github.com/liinarodriguez/PandaGame]
+- **Email:** linnrodriguez25@gmail.com
+- **GitHub:** https://github.com/liinarodriguez/PandaGame
 
 ## 🔄 Historial de Versiones
 
