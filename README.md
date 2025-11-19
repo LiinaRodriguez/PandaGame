@@ -2,6 +2,8 @@
 
 Un juego educativo e interactivo donde controlas a un panda escalador usando tu capacidad pulmonar. ¡Sopla en el inspirómetro y ayuda al panda a conquistar la montaña!
 
+![Gameplay](./PandaGame_gameplay.gif)
+
 ## 📋 Descripción
 
 PandaGame es una experiencia educativa y divertida diseñada para todo público. El jugador utiliza un inspirómetro casero para controlar a un simpático panda que debe escalar una montaña. Cuanto más fuerte y constante sea tu soplido, más rápido escalará el panda. ¡Tienes 10 segundos para llegar a la cima!
